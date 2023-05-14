@@ -11,7 +11,6 @@
         <version>2.3.5.RELEASE</version>
         <relativePath/>
     </parent>
-
     <properties>
         <jeecgboot.version>3.0</jeecgboot.version>
         <java.version>1.8</java.version>
